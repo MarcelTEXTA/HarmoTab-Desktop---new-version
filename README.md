@@ -18,6 +18,7 @@ No external dependencies (JRE and JDK exepted) are needed.
 ## Maintainers
 
 HarmoTab is maintained by :
-* E. Revert <erevert@harmotab.com>
+* E. Revert <erevert@harmotab.com> or
+* E. Macaluso <ethanmacaluso265@gmail.com>
 
 
